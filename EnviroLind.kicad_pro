@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2032
+          "min_clearance": 0.1524
         }
       },
       "diff_pair_dimensions": [
@@ -64,22 +64,6 @@
         }
       ],
       "drc_exclusions": [
-        [
-          "hole_clearance|104296000|115764000|eea09b75-bd5b-4072-b3f3-f2c1bd063240|e8fe14f1-821a-4608-9ab1-7cee4b635777",
-          ""
-        ],
-        [
-          "hole_clearance|104496000|115764000|eea09b75-bd5b-4072-b3f3-f2c1bd063240|8c72a3ad-d3fe-4823-86c6-5dd5282a0cd1",
-          ""
-        ],
-        [
-          "hole_clearance|98696000|115764000|2e70ddae-fee9-4098-91e0-ec19e39130e6|a2b54121-7f43-44fd-b493-a764a68c5b80",
-          ""
-        ],
-        [
-          "hole_clearance|98896000|115764000|2e70ddae-fee9-4098-91e0-ec19e39130e6|816ed73b-ea61-478b-aecb-21ef66a1e684",
-          ""
-        ],
         [
           "silk_edge_clearance|106176000|121410031|fd71dd11-4a70-4e16-9e18-429a2b5ed1d7|57de4218-29d5-4ed1-bc1a-39d3bee55508",
           ""
@@ -113,15 +97,7 @@
           ""
         ],
         [
-          "starved_thermal|112382000|105404500|ed0e2129-3f47-4838-b60a-9f11d5e2d945|9f5de010-aa43-460b-bd99-5964d486a91d|F.Cu",
-          ""
-        ],
-        [
           "starved_thermal|112395000|98285000|ed0e2129-3f47-4838-b60a-9f11d5e2d945|ce55516e-97e4-4fae-bc54-13288c1f4082|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|113157000|101473000|ed0e2129-3f47-4838-b60a-9f11d5e2d945|120bed76-66d8-403e-9b91-05500f65588b|F.Cu",
           ""
         ],
         [
@@ -149,19 +125,7 @@
           ""
         ],
         [
-          "starved_thermal|89774000|94985000|ed0e2129-3f47-4838-b60a-9f11d5e2d945|85daf7c0-05b4-4f50-a63a-c8633485a6f5|F.Cu",
-          ""
-        ],
-        [
           "starved_thermal|90325000|93497400|ed0e2129-3f47-4838-b60a-9f11d5e2d945|5ba168b3-d92c-4918-90f8-324a125e1f86|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|91338400|100637400|ed0e2129-3f47-4838-b60a-9f11d5e2d945|1ada3f8f-500c-485b-b61c-a91c344a4bfb|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|91338400|103426200|ed0e2129-3f47-4838-b60a-9f11d5e2d945|958e2513-0ef1-46e2-8c86-deb5c191be2d|F.Cu",
           ""
         ],
         [
