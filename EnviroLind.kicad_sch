@@ -11418,7 +11418,7 @@
 				)
 			)
 		)
-		(property "Value" "TLV75512PDBV"
+		(property "Value" "TLV75518PDBV"
 			(at 95.25 22.86 0)
 			(effects
 				(font

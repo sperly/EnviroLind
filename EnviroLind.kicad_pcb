@@ -15650,6 +15650,61 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_rect
+		(start 84.455 89.662)
+		(end 118.745 119.761)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "03dc903c-7f43-4bc2-b329-f3a3a23b9577")
+	)
+	(gr_rect
+		(start 80.518 80.518)
+		(end 101.6 101.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "782aa746-3642-451a-9833-e36ac1dd5fdc")
+	)
+	(gr_rect
+		(start 90.551 79.248)
+		(end 112.776 123.952)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "86d1c699-4fef-4ed7-919c-622e8b5bf7d5")
+	)
+	(gr_circle
+		(center 101.6 101.6)
+		(end 126.619 101.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "d00a0ab9-423d-436c-8003-a8fc364169ac")
+	)
+	(gr_rect
+		(start 101.6 101.6)
+		(end 122.682 122.682)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "dd1377a7-e72c-4ec9-ba75-96c75bbdb4db")
+	)
 	(gr_circle
 		(center 101.6 101.6)
 		(end 101.6 79.883)
